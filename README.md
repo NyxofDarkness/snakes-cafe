@@ -1,6 +1,6 @@
 # README
 
-[PR submission link](https://github.com/NyxofDarkness/snakes-cafe/pull/1)
+[PR submission link](https://github.com/NyxofDarkness/snakes-cafe/pull/2)
 <!-- link for submission, don't merge until resubmit -->
 ## Thanks for the help
 
