@@ -1,5 +1,8 @@
 # README
 
+[PR submission link](https://github.com/NyxofDarkness/snakes-cafe/compare/makingLoops?expand=1)
+
+
 ## Thanks for the help
 
 [StackOverflow-Printing list elements on seperate Lines](https://stackoverflow.com/questions/6167731/printing-list-elements-on-separated-lines-in-python)
