@@ -31,17 +31,14 @@ print(y)
 print("**", "What would you like to order?", "**")
 print(y)
 print()
-
+item = []
 menu = []
 while True:
     menuChoice = input(">")
-    if menuChoice in menu:
-        menuChoice1 =1
-        ++menuChoice1
-        menu.insert(menuChoice, menuChoice1)
+
 
     if menuChoice in myapps:
-        # print("Appetizers: ", menuChoice)
+        # print("Appetizers: ", menuChoice
         menu.append(menuChoice)
 
     if menuChoice in myentree:
@@ -54,10 +51,16 @@ while True:
     if menuChoice in myDrinks:
         menu.append(menuChoice)
 
-
+        # menu.insert(menuChoice, menuChoice1)
+    if menuChoice == "quit":
+        break
 
     if menuChoice not in menu:
-        menu.append("Sorry, not on the menu!")
+        print("Sorry, not on the menu!")
 
+    # for menuChoice in menu:
+    #     :
+    #         item.append(menuChoice)
+  
     # menu.append(menuChoice) #appends user menu to menu array
-    print("Your menu:", menu)
+    print("%s orders of %s have been added to your meal." % (item, menuChoice))
