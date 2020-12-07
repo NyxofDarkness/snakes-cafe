@@ -1,6 +1,6 @@
 # README
 
-[PR submission link](https://github.com/NyxofDarkness/snakes-cafe/compare/makingLoops?expand=1)
+[PR submission link](https://github.com/NyxofDarkness/snakes-cafe/pull/1)
 
 
 ## Thanks for the help
