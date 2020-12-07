@@ -1,7 +1,7 @@
 # README
 
 [PR submission link](https://github.com/NyxofDarkness/snakes-cafe/pull/1)
-<!-- make edit for submission -->
+<!-- link for submission, don't merge until resubmit -->
 ## Thanks for the help
 
 [StackOverflow-Printing list elements on seperate Lines](https://stackoverflow.com/questions/6167731/printing-list-elements-on-separated-lines-in-python)
